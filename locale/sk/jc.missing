@@ -1,0 +1,43 @@
+# module jc
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Accepted format is'          => '',
+  'Add Column'                  => '',
+  'Align'                       => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'Are you sure you want to delete stores card' => '',
+  'Cannot delete stores card!'  => '',
+  'Card Number'                 => '',
+  'Check In'                    => '',
+  'Check Out'                   => '',
+  'Delete Column'               => '',
+  'Delete Report'               => '',
+  'Edit Column'                 => '',
+  'Edit Column Header'          => '',
+  'Edit Column Total'           => '',
+  'Fill'                        => '',
+  'Fixed value'                 => '',
+  'Fr'                          => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'Left'                        => '',
+  'Mo'                          => '',
+  'Public'                      => '',
+  'Reference Documents'         => '',
+  'Report'                      => '',
+  'Right'                       => '',
+  'Sa'                          => '',
+  'Save Column'                 => '',
+  'Save Report'                 => '',
+  'Stores Card deleted!'        => '',
+  'Su'                          => '',
+  'Th'                          => '',
+  'Tu'                          => '',
+  'We'                          => '',
+  'Width'                       => '',
+};
+
+1;

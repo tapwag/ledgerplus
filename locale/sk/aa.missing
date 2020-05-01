@@ -1,0 +1,28 @@
+# module aa
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Accepted format is'          => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'Are you sure you want to delete the following Transactions?' => '',
+  'Delete Transactions'         => '',
+  'Fr'                          => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'Mo'                          => '',
+  'Overpaid'                    => '',
+  'Payment Account'             => '',
+  'Sa'                          => '',
+  'Su'                          => '',
+  'Taxnumber'                   => '',
+  'Th'                          => '',
+  'Tu'                          => '',
+  'Unable to delete:'           => '',
+  'We'                          => '',
+  'Yes, delete transactions'    => '',
+  'Zipcode'                     => '',
+};
+
+1;
