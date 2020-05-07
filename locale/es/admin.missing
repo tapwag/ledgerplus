@@ -1,0 +1,31 @@
+# module admin
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Add Dataset'                 => '',
+  'Admin'                       => '',
+  'Are you sure you want to delete dataset' => '',
+  'Cannot use'                  => '',
+  'Change Host'                 => '',
+  'Change Host for Dataset'     => '',
+  'Change Password for Dataset' => '',
+  'Confirm'                     => '',
+  'Database Driver missing!'    => '',
+  'Dataset deleted!'            => '',
+  'Duplicate Dataset!'          => '',
+  'Lock Dataset'                => '',
+  'Lock Message'                => '',
+  'Locked'                      => '',
+  'Oracle'                      => '',
+  'Password does not match!'    => '',
+  'Pg'                          => '',
+  'PgPP'                        => '',
+  'Session expired!'            => '',
+  'Sybase'                      => '',
+  'Unlock Dataset'              => '',
+  'You are logged out'          => '',
+  'locked!'                     => '',
+  'logout'                      => '',
+};
+
+1;
