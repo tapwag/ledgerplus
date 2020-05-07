@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+BEGIN {
+     push @INC, '.';
+ }
+
 # -n do not include custom scripts
 # -a build all file
 # -m do not generate missing files
