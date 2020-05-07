@@ -1,0 +1,32 @@
+# module ct
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Accepted format is'          => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'Are you sure you want to delete' => '',
+  'Available Credit'            => '',
+  'BC Number'                   => '',
+  'Close Window'                => '',
+  'Default'                     => '',
+  'Delete Customers'            => '',
+  'Delete Vendors'              => '',
+  'Fr'                          => '',
+  'G'                           => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'Member Number'               => '',
+  'Mo'                          => '',
+  'Pre-Payment'                 => '',
+  'Reference Documents'         => '',
+  'Sa'                          => '',
+  'Su'                          => '',
+  'Th'                          => '',
+  'Tu'                          => '',
+  'We'                          => '',
+  'Yes, delete'                 => '',
+};
+
+1;

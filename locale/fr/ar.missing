@@ -1,0 +1,42 @@
+# module ar
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Accepted format is'          => '',
+  'Add Column'                  => '',
+  'Align'                       => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'Are you sure you want to delete the following Transactions?' => '',
+  'Delete Column'               => '',
+  'Delete Report'               => '',
+  'Delete Transactions'         => '',
+  'Edit Column'                 => '',
+  'Edit Column Header'          => '',
+  'Edit Column Total'           => '',
+  'Fill'                        => '',
+  'Fixed value'                 => '',
+  'Fr'                          => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'Left'                        => '',
+  'Mo'                          => '',
+  'Payment Account'             => '',
+  'Public'                      => '',
+  'Reference Documents'         => '',
+  'Right'                       => '',
+  'Sa'                          => '',
+  'Save Column'                 => '',
+  'Save Report'                 => '',
+  'Su'                          => '',
+  'Th'                          => '',
+  'Tu'                          => '',
+  'Unable to delete:'           => '',
+  'We'                          => '',
+  'Width'                       => '',
+  'XML'                         => '',
+  'Yes, delete transactions'    => '',
+};
+
+1;

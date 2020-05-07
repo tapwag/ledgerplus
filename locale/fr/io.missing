@@ -1,0 +1,23 @@
+# module io
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Cannot return assembly!'     => '',
+  'Expires'                     => '',
+  'Lot'                         => '',
+  'Margin'                      => '',
+  'Not enough inventory in Row' => '',
+  'Not enough inventory!'       => '',
+  'Received'                    => '',
+  'Recurring'                   => '',
+  'Same kit in Row'             => '',
+  'Select'                      => '',
+  'Shipped'                     => '',
+  'XML'                         => '',
+  'exceeds quantity'            => '',
+  'in row'                      => '',
+  'must be negative'            => '',
+  'must be positive'            => '',
+};
+
+1;

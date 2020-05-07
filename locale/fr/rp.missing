@@ -1,0 +1,39 @@
+# module rp
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Accepted format is'          => '',
+  'Add Column'                  => '',
+  'Align'                       => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'Delete Column'               => '',
+  'Delete Report'               => '',
+  'Edit Column'                 => '',
+  'Edit Column Header'          => '',
+  'Edit Column Total'           => '',
+  'Fill'                        => '',
+  'Fixed value'                 => '',
+  'Fr'                          => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'Left'                        => '',
+  'Mo'                          => '',
+  'Public'                      => '',
+  'Reference Documents'         => '',
+  'Report'                      => '',
+  'Right'                       => '',
+  'Sa'                          => '',
+  'Save Column'                 => '',
+  'Save Report'                 => '',
+  'Su'                          => '',
+  'Template'                    => '',
+  'Th'                          => '',
+  'Tu'                          => '',
+  'We'                          => '',
+  'Width'                       => '',
+  'XML'                         => '',
+};
+
+1;
