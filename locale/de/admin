@@ -54,6 +54,7 @@ $self{texts} = {
   'Bin List'                    => 'Lagerliste',
   'Bin Lists'                   => 'Lagerlisten',
   'Cannot create Lock!'         => 'System kann nicht gesperrt werden!',
+  'Cannot use'                  => 'Kann dies nicht verwenden',
   'Cash'                        => 'vereinnahmt',
   'Change Host'                 => 'Host wechseln',
   'Change Host for Dataset'     => 'Host für Datenset wechseln',
