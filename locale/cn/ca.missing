@@ -1,0 +1,22 @@
+# module ca
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'AR/AP'                       => '',
+  'Accepted format is'          => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'Fr'                          => '',
+  'GIFI'                        => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'Mo'                          => '',
+  'Sa'                          => '',
+  'Su'                          => '',
+  'Th'                          => '',
+  'Tu'                          => '',
+  'We'                          => '',
+};
+
+1;

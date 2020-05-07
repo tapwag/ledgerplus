@@ -78,7 +78,6 @@ $self{texts} = {
   'Pricegroup saved!'           => '巳储存价格组',
   'Pricegroups'                 => '价格组',
   'Project'                     => '方案',
-  'Project Description Translations' => '方案描述的翻译',
   'Project Number'              => '方案号码',
   'Project deleted!'            => '巳删除方案',
   'Project saved!'              => '巳储存方案',

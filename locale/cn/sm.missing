@@ -1,0 +1,26 @@
+# module sm
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'AP account does not exist!'  => '',
+  'AR account does not exist!'  => '',
+  'Accepted format is'          => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'Beginning date'              => '',
+  'Fr'                          => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'Mo'                          => '',
+  'Repost Invoices'             => '',
+  'Reposting Invoices ... '     => '',
+  'Sa'                          => '',
+  'Su'                          => '',
+  'Th'                          => '',
+  'Tu'                          => '',
+  'We'                          => '',
+  'please wait'                 => '',
+};
+
+1;
