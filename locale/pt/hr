@@ -55,7 +55,6 @@ $self{texts} = {
   'Project'                     => 'Projecto',
   'Project not on file!'        => 'Projecto não existe',
   'Reference'                   => 'Referência',
-  'Sales'                       => 'Vendas',
   'Save'                        => 'Guardar',
   'Save as new'                 => 'Guardar como novo',
   'Screen'                      => 'Ecran',

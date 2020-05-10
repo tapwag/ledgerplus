@@ -1,13 +1,11 @@
 $self{texts} = {
   'Company'                     => 'Companhia',
   'Continue'                    => 'Continuar',
-  'Incorrect Dataset version!'  => 'Versão Dataset incorrecta!',
   'Login'                       => 'Login',
   'Name'                        => 'Nome',
   'No email address for'        => 'Não existe endereço de email para',
   'Password'                    => 'Password',
   'Version'                     => 'Versão',
-  'You did not enter a name!'   => 'Não indicou nome!',
 };
 
 $self{subs} = {

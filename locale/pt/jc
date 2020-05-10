@@ -30,7 +30,6 @@ $self{texts} = {
   'PDF'                         => 'PDF',
   'Postscript'                  => 'PostScript',
   'Print'                       => 'Imprimir',
-  'Project Number missing!'     => 'Falta o número do projecto',
   'Qty'                         => 'Qtd',
   'Save'                        => 'Guardar',
   'Save as new'                 => 'Guardar como novo',

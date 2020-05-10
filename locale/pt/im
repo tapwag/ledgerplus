@@ -43,7 +43,6 @@ $self{texts} = {
   'July'                        => 'Julho',
   'June'                        => 'Junho',
   'Language'                    => 'Língua',
-  'Link'                        => 'Ligar',
   'Make'                        => 'Marca',
   'March'                       => 'Março',
   'May'                         => 'Mai',
