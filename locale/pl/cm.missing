@@ -1,0 +1,8 @@
+# module cm
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Reference Documents'         => '',
+};
+
+1;
