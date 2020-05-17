@@ -2,33 +2,13 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Beginning Balance'           => '',
-  'Current'                     => '',
   'Deselect all'                => '',
-  'Detail'                      => '',
-  'Fr'                          => '',
   'Include Exchange Rate Difference' => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
-  'Mo'                          => '',
-  'Month'                       => '',
   'Out of balance!'             => '',
-  'Period'                      => '',
-  'Quarter'                     => '',
   'Reconciliation Date'         => '',
   'Reconciliation Report'       => '',
-  'Sa'                          => '',
   'Statement Balance'           => '',
-  'Su'                          => '',
-  'Summary'                     => '',
-  'Th'                          => '',
-  'Tu'                          => '',
-  'We'                          => '',
-  'Year'                        => '',
 };
 
 1;

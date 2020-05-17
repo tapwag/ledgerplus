@@ -3,9 +3,7 @@
 
 $missing = {
   'DCN missing!'                => '',
-  'Memo'                        => '',
   'Nothing to print!'           => '',
-  'On Hold'                     => '',
   'Printed'                     => '',
   'RVC missing!'                => '',
   'Scheduled'                   => '',

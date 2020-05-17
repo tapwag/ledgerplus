@@ -3,27 +3,8 @@
 
 $missing = {
   'AR/AP'                       => '',
-  'Accepted format is'          => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
-  'Current'                     => '',
-  'Department'                  => '',
-  'Fr'                          => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
-  'Mo'                          => '',
-  'Month'                       => '',
-  'Period'                      => '',
   'Project Number'              => '',
-  'Quarter'                     => '',
   'R'                           => '',
-  'Sa'                          => '',
-  'Su'                          => '',
-  'Th'                          => '',
-  'Tu'                          => '',
-  'We'                          => '',
-  'Year'                        => '',
 };
 
 1;
