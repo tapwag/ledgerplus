@@ -1,0 +1,20 @@
+# module aa
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'AP Outstanding'              => '',
+  'AR Outstanding'              => '',
+  'Add AP Transaction'          => '',
+  'Add AP Voucher'              => '',
+  'Add AR Transaction'          => '',
+  'Cannot post cash discount for a closed period!' => '',
+  'DCN'                         => '',
+  'Deselect all'                => '',
+  'Edit AP Transaction'         => '',
+  'Edit AP Voucher'             => '',
+  'Edit AR Transaction'         => '',
+  'Line Item'                   => '',
+  'SSN'                         => '',
+};
+
+1;
