@@ -2,14 +2,14 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Configuration file missing!' => '',
-  'Dataset locked!'             => '',
-  'Incorrect Password!'         => '',
-  'Incorrect Username!'         => '',
-  'Invalid TAN'                 => '',
-  'Maximum tries exceeded!'     => '',
-  'TAN'                         => '',
-  'admin does not exist!'       => '',
+  'Configuration file missing!' => 'Brak pliku konfiguracyjnego!',
+  'Dataset locked!'             => 'Zbiór danych zablokowany!',
+  'Incorrect Password!'         => 'Nieprawidłowe hasło!',
+  'Incorrect Username!'         => 'Nieprawidłowa nazwa użytkownika!',
+  'Invalid TAN'                 => 'Nieważny TAN',
+  'Maximum tries exceeded!'     => 'Przekroczono maksymalną liczbę prób!',
+  'TAN'                         => 'TAN',
+  'admin does not exist!'       => 'Administrator nie istnieje!',
 };
 
 1;
