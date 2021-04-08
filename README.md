@@ -17,3 +17,4 @@ anstehende Arbeiten (wann ist was noch zu erledigen) mit Erinnerung ca. 1Woche v
 - How much has been earned with a specific service/work/product in which sector (workaround is to use "Type of Business" but as far as I know these kinds of reports do not yet exist.
 - Which work or type of business is most profitable? (To form a basis for reasonable investment decisions)
 
+
