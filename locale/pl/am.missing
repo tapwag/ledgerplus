@@ -50,7 +50,6 @@ $missing = {
   'Dataset Version:'            => '',
   'Dataset different!'          => '',
   'Dataset lock removed!'       => '',
-  'Dataset locked!'             => '',
   'Dataset version newer, SQL-Ledger must first be upgraded!' => '',
   'Dataset will be upgraded to' => '',
   'Day'                         => '',
