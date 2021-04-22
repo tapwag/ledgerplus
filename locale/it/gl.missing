@@ -2,13 +2,10 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Add Column'                  => '',
   'Add FX Adjustment'           => '',
   'Add General Ledger Voucher'  => '',
   'Align'                       => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Cannot post transaction with a debit and credit entry for the same account!' => '',
   'Company Name'                => '',
   'Company Number'              => '',
@@ -36,9 +33,6 @@ $missing = {
   'For'                         => '',
   'Fr'                          => '',
   'Include Payment'             => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Left'                        => '',
   'Line Item'                   => '',
   'Locked by'                   => '',

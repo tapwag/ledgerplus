@@ -2,9 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Assign Number'               => '',
   'Business'                    => '',
   'Change'                      => '',
@@ -13,9 +10,6 @@ $missing = {
   'Exchange Rate'               => '',
   'Exchange rate missing!'      => '',
   'Fr'                          => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Main Groups'                 => '',
   'Memo'                        => '',
   'Mo'                          => '',

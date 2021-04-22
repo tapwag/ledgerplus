@@ -1,6 +1,7 @@
 $self{texts} = {
   'Continue'                    => 'Continua',
   'Password'                    => 'Password',
+  'Session expired!'            => 'La sessione è scaduta',
 };
 
 $self{subs} = {

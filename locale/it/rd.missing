@@ -2,12 +2,8 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
-  'Add Document'                => '',
   'Add File'                    => '',
   'Add document failed!'        => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Assembly'                    => '',
   'Attach'                      => '',
   'Attach Document'             => '',
@@ -17,10 +13,6 @@ $missing = {
   'Could not delete document!'  => '',
   'Could not detach document!'  => '',
   'Could not save document!'    => '',
-  'Credit Invoice'              => '',
-  'Credit Note'                 => '',
-  'Debit Invoice'               => '',
-  'Debit Note'                  => '',
   'Delete Documents'            => '',
   'Delete Files'                => '',
   'Deselect all'                => '',
@@ -37,9 +29,6 @@ $missing = {
   'Folder'                      => '',
   'Form'                        => '',
   'Fr'                          => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Job'                         => '',
   'Labor'                       => '',
   'Mo'                          => '',

@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Accrual'                     => '',
   'Add Column'                  => '',
   'Aged'                        => '',
@@ -10,8 +9,6 @@ $missing = {
   'Align'                       => '',
   'All Accounts'                => '',
   'All amounts in'              => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Assets'                      => '',
   'Beginning Balance'           => '',
   'Can only send one reminder at a time!' => '',
@@ -45,9 +42,6 @@ $missing = {
   'Fr'                          => '',
   'Include Payment'             => '',
   'Income / (Loss)'             => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Left'                        => '',
   'Level'                       => '',
   'Liabilities'                 => '',

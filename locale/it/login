@@ -1,13 +1,22 @@
 $self{texts} = {
   'Company'                     => 'Ragione Sociale',
+  'Configuration file missing!' => 'File di configurazione mancante',
   'Continue'                    => 'Continua',
+  'Dataset is newer than version!' => 'La serie di dati è più recente della versione',
+  'Dataset locked!'             => 'Serie di dati bloccata',
   'Incorrect Dataset version!'  => 'Versione del Dataset non corretta!',
+  'Incorrect Password!'         => 'Password errata',
+  'Incorrect Username!'         => 'Username errato',
   'Login'                       => 'Login',
+  'Maximum tries exceeded!'     => 'Numero massimo di tentativi superato',
   'Name'                        => 'Nome',
   'No email address for'        => 'Manca l\'indirizzo e-mail per',
   'Password'                    => 'Password',
+  'TAN'                         => 'TAN',
+  'Upgrading to Version'        => 'E in corso l aggiornamento alla versione',
   'Version'                     => 'Versione',
   'You did not enter a name!'   => 'Non hai inserito il nome!',
+  'admin does not exist!'       => 'L amministratore non esiste',
 };
 
 $self{subs} = {

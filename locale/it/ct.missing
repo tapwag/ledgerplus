@@ -2,9 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Are you sure you want to delete' => '',
   'Available Credit'            => '',
   'BC Number'                   => '',
@@ -18,13 +15,9 @@ $missing = {
   'Cost'                        => '',
   'Could not save pricelist!'   => '',
   'Country'                     => '',
-  'Credit Invoice'              => '',
-  'Credit Note'                 => '',
   'Customer History'            => '',
   'Customer Number'             => '',
   'Customer Transactions'       => '',
-  'Debit Invoice'               => '',
-  'Debit Note'                  => '',
   'Default'                     => '',
   'Delete Customers'            => '',
   'Delete Vendors'              => '',
@@ -41,9 +34,6 @@ $missing = {
   'Group'                       => '',
   'IBAN'                        => '',
   'Inactive'                    => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Item already on pricelist!'  => '',
   'Last Name'                   => '',
   'Leadtime'                    => '',

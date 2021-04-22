@@ -2,14 +2,9 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Add Column'                  => '',
-  'Add Stores Card'             => '',
-  'Add Time Card'               => '',
   'Align'                       => '',
   'Allocated'                   => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Are you sure you want to delete stores card' => '',
   'Are you sure you want to delete time card for' => '',
   'Cannot add stores card for a completed job!' => '',
@@ -40,9 +35,6 @@ $missing = {
   'Fill'                        => '',
   'Fixed value'                 => '',
   'Fr'                          => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Job Name'                    => '',
   'Job Number'                  => '',
   'Job Number missing!'         => '',

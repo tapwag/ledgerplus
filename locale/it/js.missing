@@ -2,13 +2,7 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Fr'                          => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Mo'                          => '',
   'Sa'                          => '',
   'Su'                          => '',

@@ -2,11 +2,7 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Are you sure you want to remove the marked entries from the queue?' => '',
-  'Bin Lists'                   => '',
   'Cannot remove files!'        => '',
   'City'                        => '',
   'Combine'                     => '',
@@ -16,9 +12,6 @@ $missing = {
   'E-mailing'                   => '',
   'Employee Number'             => '',
   'Fr'                          => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Job Number'                  => '',
   'Mo'                          => '',
   'Month'                       => '',

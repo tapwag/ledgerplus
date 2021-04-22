@@ -2,11 +2,8 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Add Column'                  => '',
   'Align'                       => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Customer Number'             => '',
   'Day(s)'                      => '',
   'Delete Column'               => '',
@@ -23,9 +20,6 @@ $missing = {
   'For'                         => '',
   'Fr'                          => '',
   'Include Payment'             => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Left'                        => '',
   'Locked by'                   => '',
   'Mo'                          => '',

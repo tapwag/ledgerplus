@@ -2,16 +2,12 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Add General Ledger Batch'    => '',
   'Add Payable Batch'           => '',
   'Add Payment Batch'           => '',
   'Add Payment Reversal Batch'  => '',
   'Add Payments Batch'          => '',
   'Add Voucher'                 => '',
-  'All Batches'                 => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Approved'                    => '',
   'Are you sure you want to delete Batch' => '',
   'Batch Number'                => '',
@@ -28,9 +24,6 @@ $missing = {
   'Fr'                          => '',
   'General Ledger Batches'      => '',
   'General Ledger Vouchers'     => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Memo'                        => '',
   'Mo'                          => '',
   'Month'                       => '',
