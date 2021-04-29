@@ -5,6 +5,12 @@
 # -m do not generate missing files
 # -c character set
 
+BEGIN {
+     push @INC, '.';
+ }
+
+
+
 use FileHandle;
 
 $basedir = "../..";

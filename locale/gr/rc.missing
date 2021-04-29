@@ -1,0 +1,35 @@
+# module rc
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Accepted format is'          => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'Deselect all'                => '',
+  'Fr'                          => '',
+  'Include Exchange Rate Difference' => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'Mo'                          => '',
+  'Out of balance!'             => '',
+  'Period'                      => '',
+  'Quarter'                     => '',
+  'Reconciliation'              => '',
+  'Reconciliation Date'         => '',
+  'Reconciliation Report'       => '',
+  'Sa'                          => '',
+  'Sep'                         => '',
+  'September'                   => '',
+  'Statement Balance'           => '',
+  'Su'                          => '',
+  'Summary'                     => '',
+  'Th'                          => '',
+  'To'                          => '',
+  'Tu'                          => '',
+  'Update'                      => '',
+  'We'                          => '',
+  'Year'                        => '',
+};
+
+1;

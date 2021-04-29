@@ -1,0 +1,9 @@
+# module pw
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Password'                    => '',
+  'Session expired!'            => '',
+};
+
+1;
