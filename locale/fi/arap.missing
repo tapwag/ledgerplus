@@ -1,0 +1,40 @@
+# module arap
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Accepted format is'          => '',
+  'Add Column'                  => '',
+  'Align'                       => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'Delete Column'               => '',
+  'Delete Report'               => '',
+  'Edit Column'                 => '',
+  'Edit Column Header'          => '',
+  'Edit Column Total'           => '',
+  'Fill'                        => '',
+  'Fixed value'                 => '',
+  'Fr'                          => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'Left'                        => '',
+  'Locked by'                   => '',
+  'Mo'                          => '',
+  'Public'                      => '',
+  'Reference Documents'         => '',
+  'Remittance Voucher'          => '',
+  'Right'                       => '',
+  'Sa'                          => '',
+  'Save Column'                 => '',
+  'Save Report'                 => '',
+  'Su'                          => '',
+  'Th'                          => '',
+  'Tu'                          => '',
+  'We'                          => '',
+  'Width'                       => '',
+  'XML'                         => '',
+  'html'                        => '',
+};
+
+1;
