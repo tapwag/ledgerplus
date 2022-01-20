@@ -1,4 +1,7 @@
 #=====================================================================
+BEGIN {
+    push @INC, '.';
+}
 # SQL-Ledger ERP
 # Copyright (c) DWS Systems Inc.
 #

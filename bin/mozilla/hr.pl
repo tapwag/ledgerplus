@@ -1,4 +1,7 @@
 #=====================================================================
+BEGIN {
+    push @INC, '.';
+}
 # SQL-Ledger
 # Copyright (c) DWS Systems Inc.
 #
