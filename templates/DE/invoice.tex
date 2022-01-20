@@ -1,0 +1,218 @@
+% RECHNUNGSFORMULAR
+%
+% S.Weitmann
+%
+% Version 20.10.2014
+
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage{ngerman}
+\usepackage[T1]{fontenc}
+\usepackage{tabularx}
+\usepackage[a4paper,top=1cm,bottom=2.5cm,left=2.2cm,right=2.4cm]{geometry}
+\usepackage{graphicx}
+\usepackage[scaled]{helvet}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{colortbl}  
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage{eso-pic}
+
+\usepackage{eso-pic}
+\newcommand\BackgroundPic{
+\put(0,0){
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\includegraphics{../<%templates%>/hintergrund.pdf}%
+}}}
+
+\begin{document}
+
+\AddToShipoutPicture{\BackgroundPic}
+
+\pagestyle{empty}
+
+\fontfamily{phv}\fontsize{9.5pt}{11.5pt}\selectfont
+
+<%include letterhead.tex%>
+
+<%pagebreak 65 11 20%>
+
+& & & & \\
+& & & & \\
+\hline
+\end{tabularx}
+
+\vspace{0.2cm}
+
+  \begin{tabularx}{\textwidth}{@{}lXr@{}}
+Zwischensumme &  & <%sumcarriedforward%> \\
+  \end{tabularx}
+
+\newpage
+
+\begin{tabularx}{\textwidth}{@{}X|r|r|r|r@{}}
+\hline
+\tiny Leistungsbezeichnung & \tiny Einheit & \tiny Anzahl & \tiny Ansatz & \tiny Total <%currency%> \\
+& & & & \\
+\"{U}bertrag von Seite <%lastpage%> & & & & <%sumcarriedforward%> \\
+<%end pagebreak%>
+
+\vspace*{1.1cm}
+
+
+\parbox[t]{.5\textwidth}{
+
+{
+  \tiny
+  {\textwidth}
+Firma XXXX, Strasse XX, PLZ \\
+  }
+
+
+<%name%>
+<%if salutation%>\\
+<%salutation%>
+<%contact%>
+<%end salutation%>
+
+<%address1%>
+
+<%if address2%>
+<%address2%>
+<%end address2%>
+
+<%zipcode%> <%city%>
+
+<%if country%>
+<%country%>
+<%end country%>
+}
+
+\vspace{0.2cm}
+
+\fontfamily{phv}\fontsize{9pt}{12pt}\selectfont
+
+
+\begin{tabularx}{\textwidth}{@{}llXll@{}}
+<%if shippingpoint%> & & & \textbf{Projekt:} & <%shippingpoint%> <%end shippingpoint%>\\
+& & & & \\
+& & &\textbf{Datum:} & <%invdate%>\\
+& & & & \\
+& & & & \\
+
+\normalsize\textbf{}  & \normalsize <%invdescription%> &  \normalsize <%invdescription%> &\normalsize\textbf{Rechnung:} & \normalsize<%invnumber%> \\
+<%if ordnumber%>&<%ordnumber%>& & &\\ <%end ordnumber%>
+<%if ponumber%> &<%ponumber%> & & & \\ <%end oponumber%>
+
+\end{tabularx}
+
+
+\vspace{0.5cm}
+\renewcommand{\arraystretch}{1.8}
+
+\begin{tabularx}{\textwidth}{@{}X|r|r|r|r@{}}
+\hline
+\tiny Leistungsbezeichnung & \tiny Einheit & \tiny Anzahl & \tiny Ansatz & \tiny  Total <%currency%> \\
+& & & & \\
+
+<%foreach number%>
+<%description%> & <%unit%> & <%qty%> & <%sellprice%> &  <%linetotal%> \\
+
+
+
+<%end number%>
+& & & & \\
+& & & & \\
+\hline
+\end{tabularx}
+
+\renewcommand{\arraystretch}{1}
+
+
+\begin{tabularx}{\textwidth}{@{}llllXr@{}}
+& & \\
+Leistungspreis <%currency%>  & & &&& <%subtotal%> \\
+<%foreach tax%>
+MWST 19 \% auf <%taxbase%> & & & &&<%tax%> \\
+<%end tax%>
+& & & &&\\
+\hline
+& & &&& \\
+<%if paid%>
+Bezahlt <%currency%>& & &&&  - <%paid%> \\
+<%end paid%>
+<%if total%>
+\textbf{Rechnungsbetrag <%currency%>}& &&& \footnotesize zahlbar rein netto innerhalb von <%terms%> Tagen & \textbf{<%total%>}
+<%end total%>
+& & &&& \\
+\hline
+\vspace{0.5cm}
+& \\
+\textbf{Bankverbindung:}
+& \\
+Santander Bank
+& \\
+Konto 2413 4722 00
+& \\
+BLZ  500 333 00\\
+
+
+<%if customertaxnumber%>
+\\
+\textbf{<%name%>:} \\
+VAT Nr <%customertaxnumber%>
+<%end customertaxnumber%>
+
+\end{tabularx}
+
+
+\vspace{0.5cm}
+
+
+\parbox{\textwidth}{
+\footnotesize <%notes%>
+}
+
+
+\vfill
+
+
+
+
+\parbox{\textwidth}{
+<%if paid_1%>
+\textbf{Zahlungen}\\
+
+\begin{tabularx}{10cm}{@{}l|Xr|r@{}}
+\hline
+\tiny Datum &\tiny Zahlungsart & & \tiny Betrag <%currency%>\\
+& & & \\
+<%end paid_1%>
+<%foreach payment%>
+  <%paymentdate%> & <%paymentaccount%> & <%paymentsource%> & <%payment%> \\
+<%end payment%>
+& & & \\
+<%if paid_1%>
+\hline
+\end{tabularx}
+<%end paid_1%>
+}
+\vspace{0.5cm}
+\\
+\vfill
+
+\parbox{\textwidth}{
+
+\begin{tabularx}{\textwidth}{@{}c@{}}
+%\scriptsize Telefon +49-(0)221-66 99 100\hspace{0.3cm}info@weitmann.biz \\
+\\
+\scriptsize St.Nr. xxxxx |  VAT # xxxxx | xxxxx Bank | IBAN: DExxxx | BIC/SWIFT: xxxxx \\
+\end{tabularx}
+
+}
+
+\end{document}
