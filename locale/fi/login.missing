@@ -8,7 +8,7 @@ $missing = {
   'Incorrect Username!'         => '',
   'Invalid TAN'                 => '',
   'Maximum tries exceeded!'     => '',
-  'TAN'                         => '',
+  'TAN'                         => 'TAN',
   'admin does not exist!'       => '',
 };
 

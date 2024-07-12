@@ -8,18 +8,12 @@ $missing = {
   'Allowed range for selected month is' => '',
   'Allowed range is'            => '',
   'Beginning date'              => '',
-  'Fr'                          => '',
   'Invalid date:'               => '',
   'Invalid day:'                => '',
   'Invalid month:'              => '',
-  'Mo'                          => '',
   'Repost Invoices'             => '',
   'Reposting Invoices ... '     => '',
-  'Sa'                          => '',
   'Su'                          => '',
-  'Th'                          => '',
-  'Tu'                          => '',
-  'We'                          => '',
   'please wait'                 => '',
 };
 

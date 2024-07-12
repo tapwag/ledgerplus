@@ -5,16 +5,10 @@ $missing = {
   'Accepted format is'          => '',
   'Allowed range for selected month is' => '',
   'Allowed range is'            => '',
-  'Fr'                          => '',
   'Invalid date:'               => '',
   'Invalid day:'                => '',
   'Invalid month:'              => '',
-  'Mo'                          => '',
-  'Sa'                          => '',
   'Su'                          => '',
-  'Th'                          => '',
-  'Tu'                          => '',
-  'We'                          => '',
 };
 
 1;
