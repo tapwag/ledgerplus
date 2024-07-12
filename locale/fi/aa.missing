@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  '+/-'                         => '+/-',
   'Accepted format is'          => '',
   'Add AP Voucher'              => '',
   'Add Credit Note'             => '',
@@ -25,14 +24,10 @@ $missing = {
   'Edit Credit Note'            => '',
   'Edit Debit Note'             => '',
   'Exchange rate for cash discount missing!' => '',
-  'Fr'                          => 'Pe',
   'Invalid date:'               => '',
   'Invalid day:'                => '',
   'Invalid month:'              => '',
   'Line Item'                   => '',
-  'Mo'                          => 'Ma',
-  'Net'                         => 'Netto',
-  'New Number'                  => 'Uusi numero',
   'On Hold'                     => '',
   'Overpaid'                    => '',
   'Paid Early'                  => '',
@@ -41,17 +36,11 @@ $missing = {
   'Payment Difference'          => '',
   'Payment Method'              => '',
   'Preview'                     => '',
-  'Remittance Voucher'          => 'La',
-  'Sa'                          => 'Su',
   'Su'                          => '',
   'Taxnumber'                   => '',
-  'Th'                          => 'To',
-  'Tu'                          => 'Ti',
   'Unable to delete:'           => '',
   'Waybill'                     => '',
-  'We'                          => 'Ke',
   'Yes, delete transactions'    => '',
-  'Zipcode'                     => 'Postinumero',
 };
 
 1;
