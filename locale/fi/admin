@@ -1,6 +1,7 @@
 $self{charset} = 'UTF-8';
 
 $self{texts} = {
+  '<hr>'                        => '<hr>',
   'AP'                          => 'Ostoreskontra',
   'AP Aging'                    => 'Erääntyvät ostolaskut',
   'AP Transaction'              => 'Ostoreskontravienti',
@@ -63,6 +64,7 @@ $self{texts} = {
   'Description'                 => 'Kuvaus',
   'Driver'                      => 'Ajuri',
   'E-mail'                      => 'Sähköposti',
+  'Email'                       => 'Sähköposti',
   'Employees'                   => 'Työntekijät',
   'Existing Datasets'           => 'Nykyiset tietokannat',
   'February'                    => 'Helmikuu',

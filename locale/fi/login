@@ -7,6 +7,7 @@ $self{texts} = {
   'Name'                        => 'Nimi',
   'No email address for'        => 'Sähköpostiosoite puuttuu',
   'Password'                    => 'Salasana',
+  'TAN'                         => 'TAN',
   'Upgrading to Version'        => 'Päivitetään versioon',
   'Version'                     => 'Versio',
   'You did not enter a name!'   => 'Et kirjoittanut nimeä',

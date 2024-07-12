@@ -4,6 +4,7 @@
 
 $self{texts} = {
   '+/-'                         => '+/-',
+  '<hr>'                        => '<hr>',
   'A'                           => 'A',
   'AP'                          => 'Ostoreskontra',
   'AP Aging'                    => 'Erääntyvät ostolaskut',
@@ -298,6 +299,7 @@ $self{texts} = {
   'Edit Time Card'              => 'Muokkaa aikakorttia',
   'Edit Vendor'                 => 'Muokkaa myyjää',
   'Edit Vendor Invoice'         => 'Muokkaa ostolaskua',
+  'Email'                       => 'Sähköposti',
   'Employee'                    => 'Työntekijä',
   'Employee Name'               => 'Työntekijän nimi',
   'Employee Number'             => 'Työntekijän numero',
@@ -700,6 +702,7 @@ $self{texts} = {
   'Summary'                     => 'Kooste',
   'System'                      => 'Järjestelmä',
   'System Defaults'             => 'Järjestelmän oletukset',
+  'TAN'                         => 'TAN',
   'Tax'                         => 'Vero',
   'Tax Included'                => 'ALV sisältyy',
   'Tax Number'                  => 'Veronumero',
