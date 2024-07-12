@@ -15,7 +15,6 @@ $missing = {
   'Cash discount date missing!' => '',
   'Cash discount date past due!' => '',
   'Consolidate Invoices'        => '',
-  'DCN'                         => '',
   'DCN missing!'                => '',
   'Delete Column'               => '',
   'Delete Report'               => '',

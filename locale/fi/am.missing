@@ -40,7 +40,6 @@ $missing = {
   'Currency deleted!'           => '',
   'Currency missing!'           => '',
   'Currency saved!'             => '',
-  'DCN'                         => '',
   'Database Monitor'            => '',
   'Dataset Version different!'  => '',
   'Dataset Version:'            => '',

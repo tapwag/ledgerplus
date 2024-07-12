@@ -70,6 +70,7 @@ $self{texts} = {
   'Currency'                    => 'Valuutta',
   'Current'                     => 'Nykyinen',
   'Customer Number'             => 'Asiakasnumero',
+  'DCN'                         => 'DCN',
   'Database Host'               => 'Tietokannan osoite',
   'Dataset'                     => 'Tietokanta',
   'Date'                        => 'Päiväys',
