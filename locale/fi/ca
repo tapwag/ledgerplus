@@ -48,6 +48,7 @@ $self{texts} = {
   'Sep'                         => 'Syy',
   'September'                   => 'Syyskuu',
   'Source'                      => 'Lähde',
+  'Su'                          => 'Su',
   'Subtotal'                    => 'Välisumma',
   'Th'                          => 'To',
   'To'                          => 'Hetkeen',

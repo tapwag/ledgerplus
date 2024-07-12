@@ -41,6 +41,7 @@ $self{texts} = {
   'September'                   => 'Syyskuu',
   'Service'                     => 'Palvelu',
   'Stores Card'                 => 'Varastokortti',
+  'Su'                          => 'Su',
   'Th'                          => 'To',
   'Timecard'                    => 'Aikakortti',
   'Tu'                          => 'Ti',

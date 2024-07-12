@@ -54,14 +54,11 @@ $missing = {
   'Right'                       => '',
   'Save Column'                 => '',
   'Save Report'                 => '',
-  'Su'                          => '',
   'Taxnumber'                   => '',
   'Unable to delete:'           => '',
   'Waybill'                     => '',
   'Width'                       => '',
-  'XML'                         => '',
   'Yes, delete transactions'    => '',
-  'html'                        => '',
 };
 
 1;

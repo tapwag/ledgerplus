@@ -26,8 +26,6 @@ $missing = {
   'Save Report'                 => '',
   'Su'                          => '',
   'Width'                       => '',
-  'XML'                         => '',
-  'html'                        => '',
 };
 
 1;

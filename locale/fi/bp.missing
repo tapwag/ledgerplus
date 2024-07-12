@@ -19,8 +19,6 @@ $missing = {
   'Payment Method'              => '',
   'Remittance Vouchers'         => '',
   'Su'                          => '',
-  'XML'                         => '',
-  'html'                        => '',
   'ok'                          => '',
 };
 

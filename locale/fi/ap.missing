@@ -59,9 +59,7 @@ $missing = {
   'Unable to delete:'           => '',
   'Waybill'                     => '',
   'Width'                       => '',
-  'XML'                         => '',
   'Yes, delete transactions'    => '',
-  'html'                        => '',
 };
 
 1;

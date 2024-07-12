@@ -8,7 +8,6 @@ $missing = {
   'Invalid date:'               => '',
   'Invalid day:'                => '',
   'Invalid month:'              => '',
-  'Su'                          => '',
 };
 
 1;

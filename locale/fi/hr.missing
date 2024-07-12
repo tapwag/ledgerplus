@@ -64,8 +64,6 @@ $missing = {
   'Withholding'                 => '',
   'Work Fax'                    => '',
   'Work Mobile'                 => '',
-  'XML'                         => '',
-  'html'                        => '',
 };
 
 1;

@@ -115,6 +115,7 @@ $self{texts} = {
   'Service Code'                => 'Palvelukoodi',
   'Startdate'                   => 'Aloituspäivä',
   'Stock Finished Goods'        => 'Varastoi valmiit tuotteet',
+  'Su'                          => 'Su',
   'Summary'                     => 'Kooste',
   'Tax'                         => 'Vero',
   'Th'                          => 'To',

@@ -116,6 +116,7 @@ $self{texts} = {
   'Ship via'                    => 'Välipiste',
   'Shipping Point'              => 'Toimitusehto',
   'Source'                      => 'Lähde',
+  'Su'                          => 'Su',
   'Subtotal'                    => 'Välisumma',
   'Summary'                     => 'Kooste',
   'Tax'                         => 'Vero',

@@ -42,11 +42,9 @@ $missing = {
   'Posting Batch'               => '',
   'Posting Date'                => '',
   'Source missing!'             => '',
-  'Su'                          => 'Su',
   'Voucher Number'              => '',
   'Voucher deleted!'            => '',
   'Voucher posted!'             => '',
-  'ok'                          => 'ok',
 };
 
 1;

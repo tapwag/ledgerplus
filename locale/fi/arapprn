@@ -14,6 +14,8 @@ $self{texts} = {
   'Select payment'              => 'Valitse maksutapa',
   'Source'                      => 'Lähde',
   'Text'                        => 'Teksti',
+  'XML'                         => 'XML',
+  'html'                        => 'html',
 };
 
 $self{subs} = {

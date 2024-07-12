@@ -5,8 +5,6 @@ $missing = {
   'DCN missing!'                => '',
   'On Hold'                     => '',
   'RVC missing!'                => '',
-  'XML'                         => '',
-  'html'                        => '',
 };
 
 1;

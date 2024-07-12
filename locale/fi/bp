@@ -96,8 +96,10 @@ $self{texts} = {
   'Vendor Number'               => 'Toimittajanumero',
   'We'                          => 'Ke',
   'Work Orders'                 => 'Työtilaukset',
+  'XML'                         => 'XML',
   'Year'                        => 'Vuosi',
   'Yes'                         => 'Kyllä',
+  'html'                        => 'html',
 };
 
 $self{subs} = {

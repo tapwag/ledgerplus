@@ -33,7 +33,6 @@ $missing = {
   'Right'                       => '',
   'Save Column'                 => '',
   'Save Report'                 => '',
-  'Su'                          => '',
   'Width'                       => '',
 };
 

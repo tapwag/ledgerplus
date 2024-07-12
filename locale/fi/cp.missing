@@ -68,12 +68,10 @@ $missing = {
   'Void Receipts'               => '',
   'Voucher'                     => '',
   'Width'                       => '',
-  'XML'                         => '',
   'Yes, Reissue Checks'         => '',
   'Yes, Reissue Receipts'       => '',
   'Yes, Void Checks'            => '',
   'Yes, Void Receipts'          => '',
-  'html'                        => '',
   'void'                        => '',
 };
 

@@ -145,6 +145,7 @@ $self{texts} = {
   'Warning!'                    => 'Varoitus!',
   'We'                          => 'Ke',
   'Week(s)'                     => 'Viiko(t)',
+  'XML'                         => 'XML',
   'Year'                        => 'Vuosi',
   'Year(s)'                     => 'Vuodet',
   'You are posting an existing transaction!' => 'Tallennat olemassaolevan viennin',
@@ -156,6 +157,7 @@ $self{texts} = {
   'as at'                       => 'päivänä ',
   'for'                         => 'for',
   'for Period'                  => 'jaksolle',
+  'html'                        => 'html',
   'sent'                        => 'lähetetty',
   'time(s)'                     => 'kertaa',
 };

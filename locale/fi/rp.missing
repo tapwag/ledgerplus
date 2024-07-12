@@ -53,9 +53,7 @@ $missing = {
   'Taxnumber'                   => '',
   'Template'                    => '',
   'Width'                       => '',
-  'XML'                         => 'XML',
   'converted to'                => '',
-  'html'                        => 'html',
 };
 
 1;

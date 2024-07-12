@@ -91,6 +91,7 @@ $self{texts} = {
   'Stores Card'                 => 'Varastokortti',
   'Stores Card saved!'          => 'Varastokortti tallennettu!',
   'Stores Cards'                => 'Varastokortit',
+  'Su'                          => 'Su',
   'Subtotal'                    => 'Välisumma',
   'Th'                          => 'To',
   'Time'                        => 'Aika',

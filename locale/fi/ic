@@ -207,6 +207,7 @@ $self{texts} = {
   'Sort by'                     => 'Järjestä mukaan',
   'State/Province'              => 'Lääni',
   'Stock Assembly'              => 'Varastoi tuote',
+  'Su'                          => 'Su',
   'Subject'                     => 'Aihe',
   'Subtotal'                    => 'Välisumma',
   'Summary'                     => 'Kooste',
@@ -233,9 +234,11 @@ $self{texts} = {
   'We'                          => 'Ke',
   'Weight'                      => 'Paino',
   'Work Order'                  => 'Työtilaus',
+  'XML'                         => 'XML',
   'Year'                        => 'Vuosi',
   'Zip/Postal Code'             => 'Postinumero',
   'days'                        => 'päivää',
+  'html'                        => 'html',
   'sent'                        => 'lähetetty',
 };
 

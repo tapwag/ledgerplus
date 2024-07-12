@@ -173,6 +173,7 @@ $self{texts} = {
   'Warning!'                    => 'Varoitus!',
   'We'                          => 'Ke',
   'Week(s)'                     => 'Viiko(t)',
+  'XML'                         => 'XML',
   'Year'                        => 'Vuosi',
   'Year(s)'                     => 'Vuodet',
   'Yes'                         => 'Kyllä',
@@ -185,6 +186,7 @@ $self{texts} = {
   'Zipcode'                     => 'Postinumero',
   'days'                        => 'päivää',
   'for'                         => 'for',
+  'html'                        => 'html',
   'sent'                        => 'lähetetty',
   'time(s)'                     => 'kertaa',
 };

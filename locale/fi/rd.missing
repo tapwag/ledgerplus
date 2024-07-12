@@ -42,7 +42,6 @@ $missing = {
   'Not an Image file!'          => '',
   'Reference Document does not exist!' => '',
   'Reference Documents'         => '',
-  'Su'                          => '',
   'Upload Document'             => '',
   'Upload Image'                => '',
   'does not exist!'             => '',
