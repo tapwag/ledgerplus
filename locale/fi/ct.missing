@@ -8,7 +8,6 @@ $missing = {
   'Are you sure you want to delete' => '',
   'Available Credit'            => '',
   'BC Number'                   => '',
-  'Bank'                        => '',
   'Cash Discount'               => '',
   'Close Window'                => '',
   'Credit Note'                 => '',

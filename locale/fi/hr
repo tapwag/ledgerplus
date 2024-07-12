@@ -1,4 +1,5 @@
 $self{texts} = {
+  '%'                           => '%',
   'AP'                          => 'Ostot',
   'Above'                       => 'Edellä',
   'Access Control'              => 'Kulunvalvonta',
@@ -16,6 +17,7 @@ $self{texts} = {
   'Are you sure you want to delete Transaction' => 'Haluatko poistaa viennin',
   'August'                      => 'Elokuu',
   'BIC'                         => 'SWIFT',
+  'Bank'                        => 'Pankki',
   'Based on'                    => 'Perustuen',
   'Bcc'                         => 'Näkymätön kopio',
   'Below'                       => 'Alle',

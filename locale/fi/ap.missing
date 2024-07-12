@@ -16,7 +16,6 @@ $missing = {
   'Cash Discount date missing!' => '',
   'Cash discount exceeds available discount!' => '',
   'Credit Note'                 => '',
-  'DCN'                         => '',
   'DCN missing!'                => '',
   'Date for cash discount past due!' => '',
   'Debit Note'                  => '',

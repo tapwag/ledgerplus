@@ -28,7 +28,6 @@ $missing = {
   'Consolidate Invoices'        => '',
   'Could not save reminder level!' => '',
   'Credit Note'                 => '',
-  'DCN'                         => '',
   'DCN missing!'                => '',
   'Date for cash discount past due!' => '',
   'Debit Note'                  => '',

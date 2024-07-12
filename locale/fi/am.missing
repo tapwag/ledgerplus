@@ -18,7 +18,6 @@ $missing = {
   'Are you sure you want to delete language: ' => '',
   'Audit Log'                   => '',
   'Backup File'                 => '',
-  'Bank'                        => '',
   'Bank Account'                => '',
   'Bank Account Details'        => '',
   'Bank Accounts'               => '',

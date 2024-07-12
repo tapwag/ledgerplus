@@ -34,6 +34,7 @@ $self{texts} = {
   'August'                      => 'Elokuu',
   'BIC'                         => 'SWIFT',
   'Backup sent to'              => 'Varmuuskopio lähetetty',
+  'Bank'                        => 'Pankki',
   'Bin List'                    => 'Varastopaikkalista',
   'Books are open'              => 'Kirjat ovat avoinna',
   'Business Number'             => 'Y-numero',

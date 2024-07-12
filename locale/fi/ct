@@ -16,6 +16,7 @@ $self{texts} = {
   'April'                       => 'Huhtikuu',
   'August'                      => 'Elokuu',
   'BIC'                         => 'SWIFT',
+  'Bank'                        => 'Pankki',
   'Bcc'                         => 'Näkymätön kopio',
   'Billing Address'             => 'Laskutusosoite',
   'Break'                       => 'Katkaise',

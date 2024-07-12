@@ -73,6 +73,7 @@ $self{texts} = {
   'Customer Number'             => 'Asiakasnumero',
   'Customer missing!'           => 'Asiakas puuttuu!',
   'Customer not on file!'       => 'Asiakas ei järjestelmässä!',
+  'DCN'                         => 'DCN',
   'Date'                        => 'Päiväys',
   'Date Paid'                   => 'Maksupäivä',
   'Day(s)'                      => 'Päivä(t)',

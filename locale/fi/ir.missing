@@ -12,7 +12,6 @@ $missing = {
   'Cannot post cash discount for a closed period!' => '',
   'Cannot return assembly!'     => '',
   'Cash Discount'               => '',
-  'DCN'                         => '',
   'DCN missing!'                => '',
   'Date for cash discount missing!' => '',
   'Date for cash discount past due!' => '',

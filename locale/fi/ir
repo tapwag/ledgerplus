@@ -38,6 +38,7 @@ $self{texts} = {
   'Currency'                    => 'Valuutta',
   'Customer Number'             => 'Asiakasnumero',
   'Customer not on file!'       => 'Asiakas ei järjestelmässä!',
+  'DCN'                         => 'DCN',
   'Date'                        => 'Päiväys',
   'Day(s)'                      => 'Päivä(t)',
   'Debit Invoice'               => 'Lasku',
