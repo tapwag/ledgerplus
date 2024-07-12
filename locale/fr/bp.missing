@@ -6,16 +6,9 @@ $missing = {
   'Allowed range for selected month is' => '',
   'Allowed range is'            => '',
   'Combine'                     => '',
-  'Fr'                          => '',
   'Invalid date:'               => '',
   'Invalid day:'                => '',
   'Invalid month:'              => '',
-  'Mo'                          => '',
-  'Sa'                          => '',
-  'Su'                          => '',
-  'Th'                          => '',
-  'Tu'                          => '',
-  'We'                          => '',
   'XML'                         => '',
 };
 

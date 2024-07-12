@@ -6,22 +6,15 @@ $missing = {
   'Allowed range for selected month is' => '',
   'Allowed range is'            => '',
   'Assign Number'               => '',
-  'Fr'                          => '',
   'Invalid date:'               => '',
   'Invalid day:'                => '',
   'Invalid month:'              => '',
   'Main Groups'                 => '',
-  'Mo'                          => '',
   'Open Drawer'                 => '',
   'Open drawer command failed!' => '',
   'Open drawer command not defined!' => '',
   'Poledisplay'                 => '',
-  'Sa'                          => '',
-  'Su'                          => '',
-  'Th'                          => '',
-  'Tu'                          => '',
   'Unknown Error!'              => '',
-  'We'                          => '',
 };
 
 1;

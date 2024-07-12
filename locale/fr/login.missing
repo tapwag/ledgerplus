@@ -5,10 +5,7 @@ $missing = {
   'Configuration file missing!' => '',
   'Dataset locked!'             => '',
   'Incorrect Username!'         => '',
-  'Invalid TAN'                 => '',
   'Maximum tries exceeded!'     => '',
-  'TAN'                         => '',
-  'admin does not exist!'       => '',
 };
 
 1;
