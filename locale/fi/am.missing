@@ -134,7 +134,6 @@ $missing = {
   'SQL statement missing'       => '',
   'Save SQL command'            => '',
   'Sort Names by'               => '',
-  'Su'                          => '',
   'Table'                       => '',
   'Tracking Item Income'        => '',
   'Tracking Item Tax'           => '',
@@ -150,7 +149,6 @@ $missing = {
   'Workstations saved!'         => '',
   'failed!'                     => '',
   'gzip failed!'                => '',
-  'ok'                          => '',
   'will be restored with data from' => '',
 };
 

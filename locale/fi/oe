@@ -223,6 +223,7 @@ $self{texts} = {
   'Source'                      => 'Lähde',
   'Startdate'                   => 'Aloituspäivä',
   'State/Province'              => 'Lääni',
+  'Su'                          => 'Su',
   'Subject'                     => 'Aihe',
   'Subtotal'                    => 'Välisumma',
   'Summary'                     => 'Kooste',

@@ -60,6 +60,7 @@ $self{texts} = {
   'Select a Printer!'           => 'Valitse tulostin',
   'September'                   => 'Syyskuu',
   'Source'                      => 'Lähde',
+  'Su'                          => 'Su',
   'Subtotal'                    => 'Välisumma',
   'Tax Included'                => 'ALV sisältyy',
   'Th'                          => 'To',

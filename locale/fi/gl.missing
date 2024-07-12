@@ -34,7 +34,6 @@ $missing = {
   'Save Column'                 => '',
   'Save Report'                 => '',
   'Split Ledger'                => '',
-  'Su'                          => '',
   'Width'                       => '',
 };
 

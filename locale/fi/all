@@ -3,7 +3,9 @@
 # this file is just a shortcut to build strings which are the same
 
 $self{texts} = {
+  '%'                           => '%',
   '+/-'                         => '+/-',
+  '.v11'                        => '.v11',
   '<hr>'                        => '<hr>',
   'A'                           => 'A',
   'AP'                          => 'Ostoreskontra',
@@ -105,6 +107,7 @@ $self{texts} = {
   'Backup sent to'              => 'Varmuuskopio lähetetty',
   'Balance'                     => 'Tase',
   'Balance Sheet'               => 'Taselaskelma',
+  'Bank'                        => 'Pankki',
   'Based on'                    => 'Perustuen',
   'Bcc'                         => 'Näkymätön kopio',
   'Beginning Balance'           => 'Alkusaldo',
@@ -752,6 +755,7 @@ $self{texts} = {
   'Trial Balance'               => 'Saldolista',
   'Tu'                          => 'Ti',
   'Type of Business'            => 'Toimialan luokitus',
+  'UNIX'                        => 'UNIX',
   'Unit'                        => 'Yksikkö',
   'Unlock System'               => 'Avaa järjestelmä',
   'Update'                      => 'Päivitä',
@@ -812,6 +816,7 @@ $self{texts} = {
   'Zipcode'                     => 'Postinumero',
   'account cannot be set to any other type of account' => 'tilityyppiä ei voi muuttaa',
   'as at'                       => 'päivänä ',
+  'csv'                         => 'csv',
   'days'                        => 'päivää',
   'done'                        => 'valmis',
   'ea'                          => 'kpl',
@@ -825,6 +830,7 @@ $self{texts} = {
   'sent'                        => 'lähetetty',
   'time(s)'                     => 'kertaa',
   'website'                     => 'www-sivu',
+  'xml'                         => 'xml',
 };
 
 1;

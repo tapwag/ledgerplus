@@ -112,6 +112,7 @@ $self{texts} = {
   'September'                   => 'Syyskuu',
   'Source'                      => 'Lähde',
   'Startdate'                   => 'Aloituspäivä',
+  'Su'                          => 'Su',
   'Subject'                     => 'Aihe',
   'Subtotal'                    => 'Välisumma',
   'Text'                        => 'Teksti',

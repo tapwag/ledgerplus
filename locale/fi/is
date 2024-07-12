@@ -183,6 +183,7 @@ $self{texts} = {
   'Source'                      => 'Lähde',
   'Startdate'                   => 'Aloituspäivä',
   'State/Province'              => 'Lääni',
+  'Su'                          => 'Su',
   'Subject'                     => 'Aihe',
   'Subtotal'                    => 'Välisumma',
   'Tax Included'                => 'ALV sisältyy',

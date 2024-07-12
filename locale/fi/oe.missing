@@ -64,7 +64,6 @@ $missing = {
   'Ship all'                    => '',
   'Shipped'                     => '',
   'Shipped Items'               => '',
-  'Su'                          => '',
   'Total Cost'                  => '',
   'Volume'                      => '',
   'Waybill'                     => '',

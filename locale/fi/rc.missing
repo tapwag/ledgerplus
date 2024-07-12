@@ -10,7 +10,6 @@ $missing = {
   'Invalid day:'                => '',
   'Invalid month:'              => '',
   'Reconciliation Date'         => '',
-  'Su'                          => '',
 };
 
 1;

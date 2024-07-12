@@ -211,6 +211,7 @@ $self{texts} = {
   'Standard Industrial Codes'   => 'Teollisuusluokitteet',
   'State/Province'              => 'Lääni',
   'Stylesheet'                  => 'Tyylitiedosto',
+  'Su'                          => 'Su',
   'System Defaults'             => 'Järjestelmän oletukset',
   'Tax'                         => 'Vero',
   'Tax collected'               => 'Veroa kerätty',
@@ -258,6 +259,7 @@ $self{texts} = {
   'done'                        => 'valmis',
   'failed'                      => 'epäonnistui',
   'html'                        => 'html',
+  'ok'                          => 'ok',
 };
 
 $self{subs} = {

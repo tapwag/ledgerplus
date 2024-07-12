@@ -15,7 +15,6 @@ $missing = {
   'Open drawer command not defined!' => '',
   'Poledisplay'                 => '',
   'Preview'                     => '',
-  'Su'                          => '',
   'Unknown Error!'              => '',
 };
 

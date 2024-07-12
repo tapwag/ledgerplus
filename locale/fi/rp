@@ -126,6 +126,7 @@ $self{texts} = {
   'Statement'                   => 'Tiliote',
   'Statement sent to'           => 'Tiliote lähetetty',
   'Statements sent to printer!' => 'Tiliotteet lähetetty tulostimelle!',
+  'Su'                          => 'Su',
   'Subject'                     => 'Aihe',
   'Subtotal'                    => 'Välisumma',
   'Summary'                     => 'Kooste',
