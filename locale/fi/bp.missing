@@ -18,8 +18,6 @@ $missing = {
   'On Hold'                     => '',
   'Payment Method'              => '',
   'Remittance Vouchers'         => '',
-  'Su'                          => '',
-  'ok'                          => '',
 };
 
 1;

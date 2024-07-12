@@ -59,7 +59,6 @@ $missing = {
   'Right'                       => '',
   'Save Column'                 => '',
   'Save Report'                 => '',
-  'Su'                          => '',
   'Unprinted Checks'            => '',
   'Unprinted Receipts'          => '',
   'Void Check'                  => '',

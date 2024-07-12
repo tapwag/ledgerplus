@@ -128,6 +128,7 @@ $self{texts} = {
   'Warning!'                    => 'Varoitus!',
   'We'                          => 'Ke',
   'Week(s)'                     => 'Viiko(t)',
+  'XML'                         => 'XML',
   'Year'                        => 'Vuosi',
   'Year(s)'                     => 'Vuodet',
   'Yes'                         => 'Kyllä',
@@ -138,6 +139,7 @@ $self{texts} = {
   'You are saving an existing order' => 'Tallennat olemassaolevan tilauksen',
   'You are saving an existing quotation' => 'Tallennat olemassaolevan tarjouksen',
   'for'                         => 'for',
+  'html'                        => 'html',
   'sent'                        => 'lähetetty',
   'time(s)'                     => 'kertaa',
 };

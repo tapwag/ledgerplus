@@ -249,6 +249,7 @@ $self{texts} = {
   'We'                          => 'Ke',
   'Week(s)'                     => 'Viiko(t)',
   'Work Order'                  => 'Työtilaus',
+  'XML'                         => 'XML',
   'Year'                        => 'Vuosi',
   'Year(s)'                     => 'Vuodet',
   'Yes'                         => 'Kyllä',
@@ -262,6 +263,7 @@ $self{texts} = {
   'days'                        => 'päivää',
   'ea'                          => 'kpl',
   'for'                         => 'for',
+  'html'                        => 'html',
   'sent'                        => 'lähetetty',
   'time(s)'                     => 'kertaa',
 };

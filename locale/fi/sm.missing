@@ -13,7 +13,6 @@ $missing = {
   'Invalid month:'              => '',
   'Repost Invoices'             => '',
   'Reposting Invoices ... '     => '',
-  'Su'                          => '',
   'please wait'                 => '',
 };
 

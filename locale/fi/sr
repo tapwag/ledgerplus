@@ -17,6 +17,7 @@ $self{texts} = {
   'October'                     => 'Lokakuu',
   'Sa'                          => 'Su',
   'September'                   => 'Syyskuu',
+  'Su'                          => 'Su',
   'Th'                          => 'To',
   'Tu'                          => 'Ti',
   'We'                          => 'Ke',

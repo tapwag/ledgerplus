@@ -1,6 +1,5 @@
 
   '%'                           => '',
-  '.v11'                        => '',
   '1.Reminder'                  => '',
   '2.Reminder'                  => '',
   '3.Reminder'                  => '',
@@ -566,7 +565,6 @@
   'Type of Contact'             => '',
   'Type of File'                => '',
   'Type'                        => '',
-  'UNIX'                        => '',
   'Unable to create directory: ' => '',
   'Unable to delete:'           => '',
   'Unknown Error!'              => '',
@@ -603,7 +601,6 @@
   'Workstations saved!'         => '',
   'Workstations'                => '',
   'XML Templates'               => '',
-  'XML'                         => '',
   'Yes, Reissue Checks'         => '',
   'Yes, Reissue Receipts'       => '',
   'Yes, Void Checks'            => '',
@@ -616,13 +613,11 @@
   'admin does not exist!'       => '',
   'converted to'                => '',
   'created from Sales Orders'   => '',
-  'csv'                         => '',
   'does not exist!'             => '',
   'exceeds quantity'            => '',
   'failed!'                     => '',
   'gzip failed!'                => '',
   'html Templates'              => '',
-  'html'                        => '',
   'in row'                      => '',
   'logout'                      => '',
   'must be negative'            => '',
@@ -633,7 +628,6 @@
   'updated'                     => '',
   'void'                        => '',
   'will be restored with data from' => '',
-  'xml'                         => '',
 # add the missing texts and run locales.pl to rebuild
 # module aa
 # module admin

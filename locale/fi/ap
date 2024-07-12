@@ -148,6 +148,7 @@ $self{texts} = {
   'Shipping Point'              => 'Toimitusehto',
   'Source'                      => 'Lähde',
   'Startdate'                   => 'Aloituspäivä',
+  'Su'                          => 'Su',
   'Subject'                     => 'Aihe',
   'Subtotal'                    => 'Välisumma',
   'Summary'                     => 'Kooste',

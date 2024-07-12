@@ -57,7 +57,6 @@ $missing = {
   'Sales Orders to Invoice'     => '',
   'Setup'                       => '',
   'Stock Adjustment'            => '',
-  'Su'                          => '',
   'Supply / Demand'             => '',
   'Time & Stores Cards'         => '',
   'Unlock Dataset'              => '',

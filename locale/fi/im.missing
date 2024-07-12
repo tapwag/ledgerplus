@@ -2,8 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  '%'                           => '',
-  '.v11'                        => '',
   'Accepted format is'          => '',
   'Add Column'                  => '',
   'Added'                       => '',
@@ -14,7 +12,6 @@ $missing = {
   'Allowed range is'            => '',
   'Are you sure you want to reconcile all marked payments' => '',
   'BC Number'                   => '',
-  'Bank'                        => '',
   'Barcode'                     => '',
   'Category'                    => '',
   'Clearing Number'             => '',
@@ -96,7 +93,6 @@ $missing = {
   'Sellprice'                   => '',
   'Street'                      => '',
   'Strings quoted'              => '',
-  'Su'                          => '',
   'T'                           => '',
   'Tab delimited'               => '',
   'Tariff'                      => '',
@@ -110,15 +106,11 @@ $missing = {
   'Total:'                      => '',
   'Type'                        => '',
   'Type of File'                => '',
-  'UNIX'                        => '',
   'Width'                       => '',
   'Yes, reconcile payments'     => '',
   'added'                       => '',
-  'csv'                         => '',
-  'ok'                          => '',
   'rejected'                    => '',
   'updated'                     => '',
-  'xml'                         => '',
 };
 
 1;

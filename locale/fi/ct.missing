@@ -36,7 +36,6 @@ $missing = {
   'RV'                          => '',
   'Reference Documents'         => '',
   'Salutation'                  => '',
-  'Su'                          => '',
   'Threshold'                   => '',
   'Title'                       => '',
   'Type'                        => '',

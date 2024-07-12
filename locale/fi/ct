@@ -128,6 +128,7 @@ $self{texts} = {
   'Startdate'                   => 'Aloituspäivä',
   'State'                       => 'Lääni',
   'State/Province'              => 'Lääni',
+  'Su'                          => 'Su',
   'Sub-contract GIFI'           => 'Alihankinta GIFI',
   'Subtotal'                    => 'Välisumma',
   'Summary'                     => 'Kooste',

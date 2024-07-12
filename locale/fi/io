@@ -108,7 +108,9 @@ $self{texts} = {
   'Unit'                        => 'Yksikkö',
   'Vendor'                      => 'Toimittaja',
   'Work Order'                  => 'Työtilaus',
+  'XML'                         => 'XML',
   'Zip/Postal Code'             => 'Postinumero',
+  'html'                        => 'html',
   'sent'                        => 'lähetetty',
 };
 

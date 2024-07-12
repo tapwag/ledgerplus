@@ -68,14 +68,11 @@ $missing = {
   'Volume'                      => '',
   'Waybill'                     => '',
   'Width'                       => '',
-  'XML'                         => '',
   'exceeds quantity'            => '',
   'failed!'                     => '',
-  'html'                        => '',
   'in row'                      => '',
   'must be negative'            => '',
   'must be positive'            => '',
-  'ok'                          => '',
 };
 
 1;

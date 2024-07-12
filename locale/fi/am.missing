@@ -148,10 +148,8 @@ $missing = {
   'Workstation'                 => '',
   'Workstations'                => '',
   'Workstations saved!'         => '',
-  'XML'                         => '',
   'failed!'                     => '',
   'gzip failed!'                => '',
-  'html'                        => '',
   'ok'                          => '',
   'will be restored with data from' => '',
 };

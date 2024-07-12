@@ -123,6 +123,7 @@ $self{texts} = {
   'Stores Card'                 => 'Varastokortti',
   'Stores Cards'                => 'Varastokortit',
   'Stylesheet'                  => 'Tyylitiedosto',
+  'Su'                          => 'Su',
   'System'                      => 'Järjestelmä',
   'Tax collected'               => 'Veroa kerätty',
   'Tax paid'                    => 'Veroa maksettu',
