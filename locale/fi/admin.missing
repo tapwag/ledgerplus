@@ -16,9 +16,6 @@ $missing = {
   'Lock Message'                => '',
   'Locked'                      => '',
   'Oracle'                      => '',
-  'Pg'                          => 'Pg',
-  'PgPP'                        => 'PgPP',
-  'Sybase'                      => 'Sybase',
   'Unlock Dataset'              => '',
   'logout'                      => '',
 };
