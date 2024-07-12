@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Add Column'                  => '',
   'Align'                       => '',
   'Allowed range for selected month is' => '',
@@ -24,9 +23,6 @@ $missing = {
   'Generate Invoices'           => '',
   'Generate Sales Invoices'     => '',
   'Generating Invoices'         => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Invoices consolidated!'      => '',
   'Left'                        => '',
   'Lot'                         => '',
@@ -43,7 +39,6 @@ $missing = {
   'Public'                      => '',
   'Received'                    => '',
   'Recurring'                   => '',
-  'Reference Documents'         => '',
   'Report'                      => '',
   'Right'                       => '',
   'Same kit in Row'             => '',

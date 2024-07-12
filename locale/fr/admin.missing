@@ -3,7 +3,6 @@
 
 $missing = {
   'Add Dataset'                 => '',
-  'Admin'                       => 'Admin',
   'Are you sure you want to delete dataset' => '',
   'Cannot use'                  => '',
   'Change Host'                 => '',
@@ -16,8 +15,6 @@ $missing = {
   'Lock Message'                => '',
   'Locked'                      => '',
   'Oracle'                      => '',
-  'Pg'                          => 'Pg',
-  'PgPP'                        => 'PgPP',
   'Sybase'                      => '',
   'Unlock Dataset'              => '',
   'logout'                      => '',

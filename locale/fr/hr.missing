@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Add Column'                  => '',
   'Add Payroll'                 => '',
   'Add Wage'                    => '',
@@ -29,9 +28,6 @@ $missing = {
   'Fill'                        => '',
   'Fixed value'                 => '',
   'Home Mobile'                 => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Left'                        => '',
   'Over'                        => '',
   'P'                           => '',
@@ -43,14 +39,12 @@ $missing = {
   'Payroll Transactions'        => '',
   'Public'                      => '',
   'Rate %'                      => '',
-  'Reference Documents'         => '',
   'Report'                      => '',
   'Right'                       => '',
   'Save Column'                 => '',
   'Save Report'                 => '',
   'Wage deleted!'               => '',
   'Wage saved!'                 => '',
-  'Wages'                       => '',
   'Width'                       => '',
   'Withholding'                 => '',
   'XML'                         => '',

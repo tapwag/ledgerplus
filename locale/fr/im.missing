@@ -3,7 +3,6 @@
 
 $missing = {
   '.v11'                        => '',
-  'Accepted format is'          => '',
   'Add Column'                  => '',
   'Address Line 1'              => '',
   'Address Line 2'              => '',
@@ -36,9 +35,6 @@ $missing = {
   'Import Purchase Orders'      => '',
   'Import Sales Orders'         => '',
   'Import Services'             => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Lastcost'                    => '',
   'Left'                        => '',
   'Linefeed'                    => '',

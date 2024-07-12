@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Add Kit'                     => '',
   'Allowed range for selected month is' => '',
   'Allowed range is'            => '',
@@ -17,9 +16,6 @@ $missing = {
   'Expires'                     => '',
   'Group Code'                  => '',
   'I'                           => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Inventory Count'             => '',
   'Inventory Value'             => '',
   'Item saved!'                 => '',
@@ -36,7 +32,6 @@ $missing = {
   'Quantity'                    => '',
   'Received'                    => '',
   'Recurring'                   => '',
-  'Reference Documents'         => '',
   'Report processed!'           => '',
   'Required'                    => '',
   'Same kit in Row'             => '',

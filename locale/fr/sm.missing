@@ -4,13 +4,9 @@
 $missing = {
   'AP account does not exist!'  => '',
   'AR account does not exist!'  => '',
-  'Accepted format is'          => '',
   'Allowed range for selected month is' => '',
   'Allowed range is'            => '',
   'Beginning date'              => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Repost Invoices'             => '',
   'Reposting Invoices ... '     => '',
   'please wait'                 => '',

@@ -1,4 +1,5 @@
 $self{texts} = {
+  'Accepted format is'          => 'Format accepte est',
   'Accounting Menu'             => 'Gestion Comptable',
   'Address'                     => 'Adresse',
   'Amount'                      => 'Montant',
@@ -24,6 +25,9 @@ $self{texts} = {
   'February'                    => 'Février',
   'Fr'                          => 'Ve',
   'From'                        => 'Du',
+  'Invalid date:'               => 'Date invalide',
+  'Invalid day:'                => 'Jour invalide',
+  'Invalid month:'              => 'Mois invalide',
   'Invoice Date'                => 'Date de facturation',
   'Invoice Number'              => 'Numéro de facture',
   'January'                     => 'Janvier',

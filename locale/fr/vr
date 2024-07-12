@@ -1,4 +1,5 @@
 $self{texts} = {
+  'Accepted format is'          => 'Format accepte est',
   'Account'                     => 'Compte',
   'Accounting Menu'             => 'Gestion Comptable',
   'Add General Ledger Batch'    => 'Ajout Grand-Livre Batch',
@@ -42,6 +43,9 @@ $self{texts} = {
   'General Ledger Vouchers'     => 'Grand-livre Vouchers',
   'ID'                          => 'ID',
   'Include in Report'           => 'Inclure dans l\'Etat',
+  'Invalid date:'               => 'Date invalide',
+  'Invalid day:'                => 'Jour invalide',
+  'Invalid month:'              => 'Mois invalide',
   'Invoice Number'              => 'Numéro de facture',
   'Jan'                         => 'Jan.',
   'January'                     => 'Janvier',

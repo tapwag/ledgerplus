@@ -1,9 +1,13 @@
 $self{texts} = {
+  'Accepted format is'          => 'Format accepte est',
   'April'                       => 'Avril',
   'August'                      => 'Aout',
   'December'                    => 'Décembre',
   'February'                    => 'Février',
   'Fr'                          => 'Ve',
+  'Invalid date:'               => 'Date invalide',
+  'Invalid day:'                => 'Jour invalide',
+  'Invalid month:'              => 'Mois invalide',
   'January'                     => 'Janvier',
   'July'                        => 'Juillet',
   'June'                        => 'Juin',

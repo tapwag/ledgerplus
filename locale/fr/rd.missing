@@ -2,9 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
-  'Add Document'                => '',
-  'Add File'                    => '',
   'Add document failed!'        => '',
   'Allowed range for selected month is' => '',
   'Allowed range is'            => '',
@@ -28,15 +25,11 @@ $missing = {
   'Edit Reference Document'     => '',
   'Folder'                      => '',
   'Form'                        => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Labor'                       => '',
   'No data!'                    => '',
   'No file selected!'           => '',
   'Not an Image file!'          => '',
   'Reference Document does not exist!' => '',
-  'Reference Documents'         => '',
   'Timecard'                    => '',
   'Upload Document'             => '',
   'Upload Image'                => '',

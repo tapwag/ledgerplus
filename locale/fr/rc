@@ -1,4 +1,5 @@
 $self{texts} = {
+  'Accepted format is'          => 'Format accepte est',
   'Account'                     => 'Compte',
   'Accounting Menu'             => 'Gestion Comptable',
   'Apr'                         => 'Avril',
@@ -24,6 +25,9 @@ $self{texts} = {
   'Fr'                          => 'Ve',
   'From'                        => 'Du',
   'Include Exchange Rate Difference' => 'Avec différence de change',
+  'Invalid date:'               => 'Date invalide',
+  'Invalid day:'                => 'Jour invalide',
+  'Invalid month:'              => 'Mois invalide',
   'Jan'                         => 'Jan.',
   'January'                     => 'Janvier',
   'Jul'                         => 'Juill.',

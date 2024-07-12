@@ -1,5 +1,6 @@
 $self{texts} = {
   'AR/AP'                       => 'Créances/Dettes',
+  'Accepted format is'          => 'Format accepte est',
   'Account'                     => 'Compte',
   'Apr'                         => 'Avril',
   'April'                       => 'Avril',
@@ -22,6 +23,9 @@ $self{texts} = {
   'From'                        => 'Du',
   'GIFI'                        => 'Code GIFI-TDFC',
   'Include in Report'           => 'Inclure dans l\'Etat',
+  'Invalid date:'               => 'Date invalide',
+  'Invalid day:'                => 'Jour invalide',
+  'Invalid month:'              => 'Mois invalide',
   'Jan'                         => 'Jan.',
   'January'                     => 'Janvier',
   'Jul'                         => 'Juill.',

@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Add Column'                  => '',
   'Align'                       => '',
   'Allowed range for selected month is' => '',
@@ -15,15 +14,11 @@ $missing = {
   'Expires'                     => '',
   'Fill'                        => '',
   'Fixed value'                 => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Left'                        => '',
   'Lot'                         => '',
   'Nothing to generate!'        => '',
   'Project/Job Description Translations' => '',
   'Public'                      => '',
-  'Reference Documents'         => '',
   'Report'                      => '',
   'Right'                       => '',
   'Save Column'                 => '',

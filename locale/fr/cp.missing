@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
   'Add Column'                  => '',
   'Align'                       => '',
   'Allowed range for selected month is' => '',
@@ -25,16 +24,12 @@ $missing = {
   'Exclude Void Receipts'       => '',
   'Fill'                        => '',
   'Fixed value'                 => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Left'                        => '',
   'Payment Register'            => '',
   'Printed Checks'              => '',
   'Printed Receipts'            => '',
   'Public'                      => '',
   'Receipt Number'              => '',
-  'Reference Documents'         => '',
   'Reissue Check'               => '',
   'Reissue Checks'              => '',
   'Reissue Payments'            => '',
