@@ -10,7 +10,6 @@ $missing = {
   'Incorrect Username!'         => '',
   'Invalid TAN'                 => '',
   'Maximum tries exceeded!'     => '',
-  'TAN'                         => '',
   'Upgrading to Version'        => '',
   'admin does not exist!'       => '',
 };

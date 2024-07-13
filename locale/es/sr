@@ -5,15 +5,22 @@ $self{texts} = {
   'December'                    => 'Diciembre',
   'Description'                 => 'Descripción',
   'February'                    => 'Febrero',
+  'Fr'                          => 'V',
   'Heading'                     => 'Encabezado',
   'January'                     => 'Enero',
   'July'                        => 'Julio',
   'June'                        => 'Junio',
   'March'                       => 'Marzo',
   'May'                         => 'May',
+  'Mo'                          => 'L',
   'November'                    => 'Noviembre',
   'October'                     => 'Octubre',
+  'Sa'                          => 'S',
   'September'                   => 'Septiembre',
+  'Su'                          => 'D',
+  'Th'                          => 'J',
+  'Tu'                          => 'M',
+  'We'                          => 'X',
 };
 
 $self{subs} = {
