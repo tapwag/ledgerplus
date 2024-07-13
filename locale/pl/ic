@@ -199,6 +199,7 @@ $self{texts} = {
   'Subtotal'                    => 'Wartość Netto',
   'Summary'                     => 'Skrót',
   'Tax'                         => 'Podatek',
+  'Text'                        => 'Text',
   'Th'                          => 'Czw.',
   'To'                          => 'do',
   'Top Level'                   => 'Najwyższy Poziom',
@@ -220,8 +221,10 @@ $self{texts} = {
   'We'                          => 'Śr.',
   'Weight'                      => 'Waga',
   'Work Order'                  => 'Zlecenie Robocze',
+  'XML'                         => 'XML',
   'Year'                        => 'Rok',
   'days'                        => 'dni',
+  'html'                        => 'html',
   'sent'                        => 'wysłane',
 };
 

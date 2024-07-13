@@ -7,9 +7,6 @@ $missing = {
   'RVC missing!'                => '',
   'Scheduled'                   => '',
   'Select a Printer!'           => '',
-  'Text'                        => '',
-  'XML'                         => '',
-  'html'                        => '',
 };
 
 1;

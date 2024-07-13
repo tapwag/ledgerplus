@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  '+/-'                         => '',
   'Add AP Voucher'              => '',
   'Add Credit Note'             => '',
   'Add Debit Note'              => '',

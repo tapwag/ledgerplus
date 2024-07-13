@@ -107,6 +107,7 @@ $self{texts} = {
   'Su'                          => 'Niedz.',
   'Subject'                     => 'Treść',
   'Subtotal'                    => 'Wartość Netto',
+  'Text'                        => 'Text',
   'Th'                          => 'Czw.',
   'To'                          => 'do',
   'Transaction Date missing!'   => 'Brak Daty Transakcji!',
@@ -119,8 +120,10 @@ $self{texts} = {
   'Vendor not on file!'         => 'Brak Dostawcy w bazie danych',
   'Warning!'                    => 'Ostrzeżenie',
   'We'                          => 'Śr.',
+  'XML'                         => 'XML',
   'Year'                        => 'Rok',
   'Yes'                         => 'Tak',
+  'html'                        => 'html',
   'sent'                        => 'wysłane',
 };
 

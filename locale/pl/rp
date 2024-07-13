@@ -126,6 +126,7 @@ $self{texts} = {
   'Tax'                         => 'Podatek',
   'Tax collected'               => 'Rejestr VAT - Sprzedaż',
   'Tax paid'                    => 'Rejestr VAT - Zakupy',
+  'Text'                        => 'Text',
   'Th'                          => 'Czw.',
   'Till'                        => 'Kasa',
   'To'                          => 'do',
@@ -137,9 +138,11 @@ $self{texts} = {
   'Vendor not on file!'         => 'Brak Dostawcy w bazie danych',
   'Warning!'                    => 'Ostrzeżenie',
   'We'                          => 'Śr.',
+  'XML'                         => 'XML',
   'Year'                        => 'Rok',
   'as at'                       => 'na dzień',
   'for Period'                  => 'za Okres',
+  'html'                        => 'html',
   'sent'                        => 'wysłane',
 };
 

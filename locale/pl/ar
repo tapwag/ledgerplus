@@ -1,4 +1,5 @@
 $self{texts} = {
+  '+/-'                         => '+/-',
   'AP Outstanding'              => 'Zobowiązania Nieuregulowane',
   'AP Transaction'              => 'Transakcja Zobowiązań',
   'AP Transactions'             => 'Transakcje Zobowiązań',
@@ -145,6 +146,7 @@ $self{texts} = {
   'Tax'                         => 'Podatek',
   'Tax Included'                => 'Podatek Wliczony',
   'Terms'                       => 'Warunki: Netto',
+  'Text'                        => 'Text',
   'Th'                          => 'Czw.',
   'Till'                        => 'Kasa',
   'To'                          => 'do',
@@ -162,9 +164,11 @@ $self{texts} = {
   'Warehouse'                   => 'Magazyn',
   'Warning!'                    => 'Ostrzeżenie',
   'We'                          => 'Śr.',
+  'XML'                         => 'XML',
   'Year'                        => 'Rok',
   'Yes'                         => 'Tak',
   'days'                        => 'dni',
+  'html'                        => 'html',
   'sent'                        => 'wysłane',
 };
 

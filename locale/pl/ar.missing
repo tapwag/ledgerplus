@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  '+/-'                         => '',
   'Add AP Voucher'              => '',
   'Add Column'                  => '',
   'Add Credit Note'             => '',
@@ -65,12 +64,10 @@ $missing = {
   'Scheduled'                   => '',
   'Select a Printer!'           => '',
   'Taxnumber'                   => '',
-  'Text'                        => '',
   'Unable to delete:'           => '',
   'Waybill'                     => '',
   'Week(s)'                     => '',
   'Width'                       => '',
-  'XML'                         => '',
   'Year(s)'                     => '',
   'Yes, delete transactions'    => '',
   'You are posting an existing transaction!' => '',
@@ -81,7 +78,6 @@ $missing = {
   'You are saving an existing quotation' => '',
   'Zipcode'                     => '',
   'for'                         => '',
-  'html'                        => '',
   'time(s)'                     => '',
 };
 

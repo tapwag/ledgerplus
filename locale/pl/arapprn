@@ -11,6 +11,9 @@ $self{texts} = {
   'Screen'                      => 'Ekran',
   'Select payment'              => 'Wybierz płatność',
   'Source'                      => 'Żródło',
+  'Text'                        => 'Text',
+  'XML'                         => 'XML',
+  'html'                        => 'html',
 };
 
 $self{subs} = {

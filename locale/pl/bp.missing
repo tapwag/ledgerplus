@@ -2,18 +2,10 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Accepted format is'          => '',
-  'Allowed range for selected month is' => '',
-  'Allowed range is'            => '',
   'Combine'                     => '',
   'Deselect all'                => '',
   'E-mailing'                   => '',
-  'Fr'                          => '',
-  'Invalid date:'               => '',
-  'Invalid day:'                => '',
-  'Invalid month:'              => '',
   'Job Number'                  => '',
-  'Mo'                          => '',
   'None'                        => '',
   'Not E-mailed'                => '',
   'Not Printed'                 => '',
@@ -21,20 +13,7 @@ $missing = {
   'On Hold'                     => '',
   'Payment Method'              => '',
   'Printing'                    => '',
-  'Queue'                       => '',
   'Queued'                      => '',
-  'Remittance Vouchers'         => '',
-  'Sa'                          => '',
-  'Stores Cards'                => '',
-  'Su'                          => '',
-  'Text'                        => '',
-  'Th'                          => '',
-  'Time Cards'                  => '',
-  'Tu'                          => '',
-  'We'                          => '',
-  'XML'                         => '',
-  'html'                        => '',
-  'ok'                          => '',
 };
 
 1;

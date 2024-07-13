@@ -42,10 +42,8 @@ $missing = {
   'Schedule'                    => '',
   'Scheduled'                   => '',
   'Split Ledger'                => '',
-  'Text'                        => '',
   'Week(s)'                     => '',
   'Width'                       => '',
-  'XML'                         => '',
   'Year(s)'                     => '',
   'You are posting an existing transaction!' => '',
   'You are printing and posting an existing transaction!' => '',
@@ -54,7 +52,6 @@ $missing = {
   'You are saving an existing order' => '',
   'You are saving an existing quotation' => '',
   'for'                         => '',
-  'html'                        => '',
   'time(s)'                     => '',
 };
 

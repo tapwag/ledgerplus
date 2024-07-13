@@ -46,6 +46,7 @@ $self{texts} = {
   'Startdate'                   => 'Dzień Zatrudnienia',
   'Su'                          => 'Niedz.',
   'Subject'                     => 'Treść',
+  'Text'                        => 'Text',
   'Th'                          => 'Czw.',
   'To'                          => 'do',
   'Tu'                          => 'Wt.',
@@ -53,6 +54,8 @@ $self{texts} = {
   'Vendor not on file!'         => 'Brak Dostawcy w bazie danych',
   'Warning!'                    => 'Ostrzeżenie',
   'We'                          => 'Śr.',
+  'XML'                         => 'XML',
+  'html'                        => 'html',
   'sent'                        => 'wysłane',
 };
 

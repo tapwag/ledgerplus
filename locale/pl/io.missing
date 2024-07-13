@@ -2,11 +2,8 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  'Barcode'                     => '',
   'Cannot return assembly!'     => '',
-  'Credit Invoice'              => '',
   'DCN missing!'                => '',
-  'Debit Invoice'               => '',
   'Error!'                      => '',
   'Expires'                     => '',
   'G.W.'                        => '',
@@ -21,7 +18,6 @@ $missing = {
   'On Hold'                     => '',
   'PO Number'                   => '',
   'Packaging'                   => '',
-  'Queue'                       => '',
   'Queued'                      => '',
   'RVC missing!'                => '',
   'Received'                    => '',
@@ -32,12 +28,9 @@ $missing = {
   'Select items'                => '',
   'Shipped'                     => '',
   'Sort by'                     => '',
-  'Text'                        => '',
   'Volume'                      => '',
-  'XML'                         => '',
   'Zip/Postal Code'             => '',
   'exceeds quantity'            => '',
-  'html'                        => '',
   'in row'                      => '',
   'must be negative'            => '',
   'must be positive'            => '',

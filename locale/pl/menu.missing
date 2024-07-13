@@ -1,0 +1,11 @@
+# module menu
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Add File'                    => '',
+  'Image Files'                 => '',
+  'List Files'                  => '',
+  'Projects & Jobs'             => '',
+};
+
+1;
