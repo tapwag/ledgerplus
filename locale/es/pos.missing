@@ -8,7 +8,6 @@ $missing = {
   'Assign Number'               => '',
   'Business'                    => '',
   'Change'                      => '',
-  'Customer Number'             => '',
   'Department'                  => '',
   'Fr'                          => '',
   'Invalid date:'               => '',

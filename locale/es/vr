@@ -45,6 +45,7 @@ $self{texts} = {
   'Total'                       => 'Total',
   'Vendor'                      => 'Proveedor',
   'Yes'                         => 'Si',
+  'ok'                          => 'ok',
 };
 
 $self{subs} = {

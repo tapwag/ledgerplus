@@ -2,7 +2,6 @@
 # add the missing texts and run locales.pl to rebuild
 
 $missing = {
-  '+/-'                         => '',
   'AP Outstanding'              => '',
   'AR Outstanding'              => '',
   'Accepted format is'          => '',
@@ -18,11 +17,7 @@ $missing = {
   'Cash Discount'               => '',
   'Cash Discount date missing!' => '',
   'Cash discount exceeds available discount!' => '',
-  'City'                        => '',
-  'Country'                     => '',
   'Credit Note'                 => '',
-  'Customer Number'             => '',
-  'DCN'                         => '',
   'Date for cash discount past due!' => '',
   'Debit Note'                  => '',
   'Delete Transactions'         => '',

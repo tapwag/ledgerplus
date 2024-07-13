@@ -18,7 +18,6 @@ $missing = {
   'Chart of Accounts Translations' => '',
   'Code'                        => '',
   'Completed'                   => '',
-  'Customer Number'             => '',
   'Delete Column'               => '',
   'Delete Report'               => '',
   'Description Translations'    => '',

@@ -59,7 +59,6 @@ $missing = {
   'Voucher posted!'             => '',
   'We'                          => '',
   'Year'                        => '',
-  'ok'                          => '',
 };
 
 1;

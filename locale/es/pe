@@ -15,6 +15,7 @@ $self{texts} = {
   'Continue'                    => 'Continuar',
   'Current'                     => 'Actual',
   'Customer'                    => 'Cliente',
+  'Customer Number'             => 'DCN',
   'Customer missing!'           => '¡Falta el cliente!',
   'Customer not on file!'       => '¡El cliente no existe!',
   'Date'                        => 'Fecha',

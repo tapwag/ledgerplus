@@ -6,16 +6,11 @@ $missing = {
   'Memo'                        => '',
   'Nothing to print!'           => '',
   'On Hold'                     => '',
-  'PDF'                         => '',
-  'Postscript'                  => '',
   'Printed'                     => '',
   'RVC missing!'                => '',
   'Scheduled'                   => '',
   'Select a Printer!'           => '',
   'Select payment'              => '',
-  'Text'                        => '',
-  'XML'                         => '',
-  'html'                        => '',
 };
 
 1;

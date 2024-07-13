@@ -10,6 +10,7 @@ $self{texts} = {
   'Currency'                    => 'Moneda',
   'Current'                     => 'Actual',
   'Customer'                    => 'Cliente',
+  'Customer Number'             => 'DCN',
   'Customer missing!'           => '¡Falta el cliente!',
   'December'                    => 'Diciembre',
   'Delete'                      => 'Borrar',
