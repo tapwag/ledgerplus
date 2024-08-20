@@ -1,6 +1,6 @@
 $self{texts} = {
   '+/-'                         => '+/-',
-  'AP Transaction'              => 'Gestión se pago',
+  'AP Transaction'              => 'Gestión de pago',
   'AP Transactions'             => 'Gestiones de pagos',
   'AR Transaction'              => 'Gestión de cobro',
   'AR Transactions'             => 'Gestiones de cobros',
