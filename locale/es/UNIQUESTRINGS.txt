@@ -104,7 +104,7 @@
   'Cannot create Part'          => 'No se puede crear pieza',
   'Cannot create Service'       => 'No se puede crear servicio',
   'Cannot delete batch!'        => '¡No se puede eliminar lote!',
-  'Cannot delete employee!'     => '¡No se puede eliminar empleado/a!',
+  'Cannot delete employee!'     => '¡No se puede eliminar empleado*a!',
   'Cannot delete quotation!'    => '¡No se puede eliminar presupuesto!',
   'Cannot delete stores card!'  => '¡No se puede eliminar tarjeta de tienda!',
   'Cannot delete time card!'    => '¡No se puede eliminar tarjeta de tiempo!',
