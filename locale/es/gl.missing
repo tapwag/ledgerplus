@@ -67,7 +67,6 @@ $missing = {
   'Vendor Number'               => '',
   'Warning!'                    => '',
   'Width'                       => '',
-  'Year'                        => '',
   'You are posting an existing transaction!' => '',
   'You are printing and posting an existing transaction!' => '',
   'You are printing and saving an existing order' => '',

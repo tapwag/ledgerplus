@@ -50,7 +50,6 @@ $missing = {
   'Voucher Number'              => '',
   'Voucher deleted!'            => '',
   'Voucher posted!'             => '',
-  'Year'                        => '',
 };
 
 1;

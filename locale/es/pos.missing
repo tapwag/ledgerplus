@@ -33,7 +33,6 @@ $missing = {
   'Trade Discount'              => '',
   'Unknown Error!'              => '',
   'Warehouse'                   => '',
-  'Year'                        => '',
 };
 
 1;

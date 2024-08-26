@@ -70,6 +70,7 @@ $self{texts} = {
   'Vendor'                      => 'Proveedor',
   'We'                          => 'X',
   'XML'                         => 'XML',
+  'Year'                        => 'Ano',
   'Yes'                         => 'Si',
   'html'                        => 'html',
   'ok'                          => 'ok',

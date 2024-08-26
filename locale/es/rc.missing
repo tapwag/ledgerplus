@@ -18,7 +18,6 @@ $missing = {
   'Reconciliation Date'         => '',
   'Reconciliation Report'       => '',
   'Summary'                     => '',
-  'Year'                        => '',
 };
 
 1;

@@ -55,6 +55,7 @@ $self{texts} = {
   'Unit'                        => 'Unidad',
   'Update'                      => 'Actualizar',
   'We'                          => 'X',
+  'Year'                        => 'Ano',
 };
 
 $self{subs} = {

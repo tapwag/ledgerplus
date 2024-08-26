@@ -51,7 +51,9 @@ $self{texts} = {
   'Tu'                          => 'M',
   'Update'                      => 'Actualizar',
   'We'                          => 'X',
+  'Year'                        => 'Ano',
   'Yes'                         => 'Si',
+  'You are saving an existing transaction!' => '¡Está guardando una transacción existente!',
 };
 
 $self{subs} = {

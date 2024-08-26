@@ -108,7 +108,6 @@ $missing = {
   'Warning!'                    => '',
   'Waybill'                     => '',
   'Width'                       => '',
-  'Year'                        => '',
   'Yes, delete transactions'    => '',
   'You are posting an existing transaction!' => '',
   'You are printing and posting an existing transaction!' => '',

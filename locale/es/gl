@@ -98,6 +98,7 @@ $self{texts} = {
   'We'                          => 'X',
   'Week(s)'                     => 'Semana(s)',
   'XML'                         => 'XML',
+  'Year'                        => 'Ano',
   'Year(s)'                     => 'Ano(s)',
   'Yes'                         => 'Si',
   'html'                        => 'html',

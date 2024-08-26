@@ -94,10 +94,8 @@ $missing = {
   'Time and Stores Cards'       => '',
   'Warning!'                    => '',
   'Width'                       => '',
-  'Year'                        => '',
   'You are not authorized to add a new item!' => '',
   'You are printing and saving an existing transaction!' => '',
-  'You are saving an existing transaction!' => '',
 };
 
 1;

@@ -1,6 +1,12 @@
 $self{texts} = {
   'Company'                     => 'Compañía',
+  'Configuration file missing!' => '¡Falta la configuración del archivo!',
   'Continue'                    => 'Continuar',
+  'Dataset is newer than version!' => '¡Conjunto de datos es más reciente que la versión!',
+  'Incorrect Dataset version!'  => '¡Versión de conjunto de datos incorrecta!',
+  'Incorrect Password!'         => '¡Contraseña incorrecta!',
+  'Incorrect Username!'         => '¡Nombre de usuario*a incorrecto!',
+  'Invalid TAN'                 => 'TAN inválido',
   'Login'                       => 'Entrar',
   'Name'                        => 'Nombre',
   'No email address for'        => 'Falta la dirección de correo electrónico de',
@@ -8,6 +14,7 @@ $self{texts} = {
   'TAN'                         => 'TAN',
   'Version'                     => 'Versión',
   'You did not enter a name!'   => 'No ha introducido el nombre',
+  'admin does not exist!'       => '¡admin no existe!',
 };
 
 $self{subs} = {

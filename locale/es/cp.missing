@@ -96,7 +96,6 @@ $missing = {
   'Voucher'                     => '',
   'Warning!'                    => '',
   'Width'                       => '',
-  'Year'                        => '',
   'Yes, Reissue Checks'         => '',
   'Yes, Reissue Receipts'       => '',
   'Yes, Void Checks'            => '',

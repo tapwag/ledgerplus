@@ -51,7 +51,6 @@ $missing = {
   'Job Number'                  => '',
   'Job deleted!'                => '',
   'Job saved!'                  => '',
-  'Jobs'                        => '',
   'Languages not defined!'      => '',
   'Left'                        => '',
   'Lot'                         => '',
@@ -59,7 +58,6 @@ $missing = {
   'No open Projects!'           => '',
   'Nothing to generate!'        => '',
   'Orders generated!'           => '',
-  'POS'                         => '',
   'POS Button'                  => '',
   'Part Number'                 => '',
   'Period'                      => '',
@@ -91,7 +89,6 @@ $missing = {
   'Vendor Number'               => '',
   'Warehouse'                   => '',
   'Width'                       => '',
-  'Year'                        => '',
 };
 
 1;

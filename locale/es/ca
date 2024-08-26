@@ -47,6 +47,7 @@ $self{texts} = {
   'To'                          => 'Hasta ',
   'Tu'                          => 'M',
   'We'                          => 'X',
+  'Year'                        => 'Ano',
 };
 
 $self{subs} = {

@@ -9,6 +9,7 @@ $self{texts} = {
   'Attachment'                  => 'Adjunto',
   'Aug'                         => 'Ago',
   'August'                      => 'Agosto',
+  'Barcode'                     => 'Códigos de barras',
   'Bcc'                         => 'Bcc',
   'Bin'                         => 'Bin',
   'Cc'                          => 'Cc',

@@ -34,6 +34,7 @@ $self{texts} = {
   'Image'                       => 'Imagen',
   'Jan'                         => 'Ene',
   'January'                     => 'Enero',
+  'Jobs'                        => 'Trabajos',
   'Jul'                         => 'Jul',
   'July'                        => 'Julio',
   'Jun'                         => 'Jun',
@@ -53,6 +54,7 @@ $self{texts} = {
   'Oct'                         => 'Oct',
   'October'                     => 'Octubre',
   'Orphaned'                    => 'Huérfano',
+  'POS'                         => 'POS',
   'Project'                     => 'Proyecto',
   'Project deleted!'            => '¡Proyecto borrado!',
   'Project saved!'              => '¡Proyecto guardado ',
@@ -77,6 +79,7 @@ $self{texts} = {
   'Vendor not on file!'         => '¡No se encuentra el proveedor en la base de datos!',
   'We'                          => 'X',
   'Weight'                      => 'Peso',
+  'Year'                        => 'Ano',
 };
 
 $self{subs} = {

@@ -46,7 +46,6 @@ $missing = {
   'Time Cards'                  => '',
   'Vendor Number'               => '',
   'Work Orders'                 => '',
-  'Year'                        => '',
 };
 
 1;

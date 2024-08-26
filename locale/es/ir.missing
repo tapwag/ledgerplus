@@ -10,7 +10,6 @@ $missing = {
   'Align'                       => '',
   'Allowed range for selected month is' => '',
   'Allowed range is'            => '',
-  'Barcode'                     => '',
   'Bin List'                    => '',
   'Business'                    => '',
   'Cannot post cash discount for a closed period!' => '',

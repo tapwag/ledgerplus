@@ -4,7 +4,6 @@
 $missing = {
   'Add Quotation'               => '',
   'Add Request for Quotation'   => '',
-  'Barcode'                     => '',
   'Bin List'                    => '',
   'Cannot return assembly!'     => '',
   'Credit Invoice'              => '',

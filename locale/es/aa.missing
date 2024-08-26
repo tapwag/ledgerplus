@@ -70,7 +70,6 @@ $missing = {
   'Vendor Number'               => '',
   'Warehouse'                   => '',
   'Waybill'                     => '',
-  'Year'                        => '',
   'Yes, delete transactions'    => '',
   'Zipcode'                     => '',
 };
